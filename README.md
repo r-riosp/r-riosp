@@ -31,7 +31,7 @@ Olá! Sou um desenvolvedor em formação, apaixonado por tecnologia e em constan
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-riosp&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-riosp&layout=compact&langs_count=7&theme=catppuccin_mocha&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-riosp&layout=compact&langs_count=7&theme=catppuccin_mocha&locale=pt-br&hide=LESS,Stylus"/>
 </div>
 
 <div align="center">
