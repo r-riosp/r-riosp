@@ -1,19 +1,17 @@
-name: Atualizar Stats do GitHub
+name: Atualizar Stats do GitHub (Modo Forçado)
 
 on:
   schedule:
-    # Roda a cada 6 horas
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *' # Roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Ping Stats Card
-        # Usa o token para "aquecer" o cache com os dados privados
+      - name: Forçar atualização do Card de Stats
+        env:
+          # Passa o token como uma variável de ambiente
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          wget -O /dev/null "https://github-readme-stats.vercel.app/api?username=r-riosp&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&locale=pt-br"
-      - name: Ping Top Langs
-        run: |
-          wget -O /dev/null "https://github-readme-stats.vercel.app/api/top-langs/?username=r-riosp&layout=compact&langs_count=7&theme=catppuccin_mocha&locale=pt-br"
+          curl -H "Authorization: Bearer $GH_TOKEN" "https://github-readme-stats.vercel.app/api?username=r-riosp&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"
