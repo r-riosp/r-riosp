@@ -28,10 +28,9 @@ Olá! Sou um desenvolvedor em formação, apaixonado por tecnologia e em constan
 </div>
 
 ## Estatísticas do GitHub 📊
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-riosp&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-riosp&layout=compact&langs_count=7&theme=catppuccin_mocha&locale=pt-br&hide=LESS,Stylus"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=r-riosp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r-riosp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
