@@ -1,0 +1,21 @@
+name: GitHub Stats Card
+
+on:
+  schedule:
+    # Roda a cada 3 horas
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # Permite rodar manualmente na aba Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checa o código
+        uses: actions/checkout@v3
+
+      - name: Gera as estatísticas do GitHub
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          # O ?user=r-riosp na URL do README é o que busca os dados
+          # Este token é para acesso a commits privados e temas customizados
+          gh_token: ${{ secrets.GH_TOKEN }}
