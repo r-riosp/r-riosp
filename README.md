@@ -9,7 +9,7 @@
 Olá! Sou um desenvolvedor em formação, apaixonado por tecnologia e em constante evolução. Atualmente:
 
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas na FATEC São Paulo
-- 💻 Estudando desenvolvimento web com foco em Java pelo Instituto PROA
+- 💻 Formado em desenvolvimento web com foco em Java pelo Instituto PROA
 - 🎯 Objetivo: Me tornar um Engenheiro de Software de excelência
 - 🎸 Interesses: Rock 'n roll, música, guitarra e astronomia
 
