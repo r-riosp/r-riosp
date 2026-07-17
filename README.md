@@ -20,7 +20,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, focado em construir sistemas de alta resiliência e qualidade. Estou em constante evolução técnica e prática, trilhando minha jornada para me tornar um Engenheiro de Software de excelência.
 
 - 💼 Atualmente atuo como Estagiário em Desenvolvimento na **Software.com.br**.
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas na **FATEC São Paulo** (3º semestre).
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas na **FATEC São Paulo** (5º semestre).
 - 🏫 Técnico em Informática para Internet pela **ETEC Lauro Gomes**.
 - 🏆 Formado em Desenvolvimento Web Java pelo **Instituto PROA**, onde fui premiado como **Aluno Destaque**.
 - 🚀 Tenho forte vivência com metodologias ágeis, tendo atuado como Scrum Master e Desenvolvedor Full Stack na construção do **Gatorion**, uma plataforma gamificada focada no ensino de astronomia.
