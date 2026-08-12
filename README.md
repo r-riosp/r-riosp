@@ -48,7 +48,7 @@ Sou um desenvolvedor focado em construir sistemas de alta resiliência, escalabi
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,rs,js,html,css&perline=10" alt="Linguagens de Programação" />
+  <img src="https://skillicons.dev/icons?i=java,py,rust,js,html,css&perline=10" alt="Linguagens de Programação" />
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,aws,postgres,mysql,docker,git,github,postman&perline=10" alt="Frameworks e Ferramentas" />
